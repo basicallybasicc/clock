@@ -1,0 +1,21 @@
+* {
+    font-family: "Times New Roman";
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 100%;
+}
